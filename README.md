@@ -1,9 +1,9 @@
-#CSS3-animate-it
+# CSS3-animate-it
 *Just-add-water CSS animation*
 
 `CSS3-animate-it` is a bunch of cool, fun, and cross-browser animations for you to use in your projects.
 
-##Usage
+## Usage
 To use CSS3-animate-it in your website, simply drop `css3-animated.js` at the end of your file and `animations.css` in the head.
 
 ```html
@@ -20,7 +20,7 @@ Once you have done that you can just define `animatedParent` as the parent class
 
 You can do a whole bunch of other stuff with CSS3-animate-it.
 
-##Sequencing
+## Sequencing
 
 If you want to have a set of animations start one after the other then you can set a sequence time in ms using `data-sequence` then define the order with `data-id`. 
 
